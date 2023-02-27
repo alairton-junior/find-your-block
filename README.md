@@ -10,6 +10,7 @@
 <h1>Topics 📋</h1>
 
    - [Sobre 📖](#about)
+   - [Deploy ✅ ](#deploy)
    - [Tecnologias 🚀](#techs)
    - [Tools 🛠️](#tools)
    - [Como rodar o projeto 🤔](#run-project)
@@ -19,6 +20,10 @@
 
 Esse projeto foi desenvolvido na 7° Edição do #boraCodar da Rocketseat, que semanalmente lança desafios para toda comunidade Dev. Nesse desafio com o clima de Carnaval,
 a proposta foi desenvolver um site na qual foliões de carnaval possam buscar blocos mais próximos da onde estejam ou que mais se identificam.
+
+<h2 id="about">Deploy ✅</h2>
+
+- [Acesse o projeto](https://gregarious-platypus-155183.netlify.app/)
 
 <h2 id="techs">🚀 Tecnologias</h2>
 
