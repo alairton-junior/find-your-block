@@ -12,7 +12,6 @@
    - [Sobre 📖](#about)
    - [Tecnologias 🚀](#techs)
    - [Tools 🛠️](#tools)
-   - [Challenges and Learnings along the way 🤯](#challenges-and-learnings-along-the-way-)
    - [Como rodar o projeto 🤔](#run-project)
    - [Funcionalidades 📝](#functionalities)
 
