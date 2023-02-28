@@ -49,7 +49,7 @@ As ferramentas utilizadas para desenvolver o projeto:
 
 ```bash
 # - Clone this repository:
-$ git clone https://github.com/felipecastrosales/Virtual-Store Virtual-Store
+$ git clone https://github.com/alairton-junior/find-your-block
 
 # - For install dependencies:
 $ npm install
